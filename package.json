@@ -1,0 +1,11 @@
+{
+  "name": "homenode2507",
+  "version": "1.0.0",
+  "description": "Home node 2507",
+  "main": "httpServer.js",
+  "scripts": {
+    "start": "node httpServer.js"
+  },
+  "author": "Anna",
+  "license": "ISC"
+}
